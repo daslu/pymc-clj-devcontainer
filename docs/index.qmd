@@ -1,0 +1,41 @@
+
+---
+format:
+  html: {toc: true, toc-depth: 4, theme: cosmo, output-file: index.html}
+code-block-background: true
+
+---
+<style></style><style>.printedClojure .sourceCode {
+  background-color: transparent;
+  border-style: none;
+}
+</style><style>.clay-limit-image-width .clay-image {max-width: 100%}
+.clay-side-by-side .sourceCode {margin: 0}
+.clay-side-by-side {margin: 1em 0}
+</style>
+<script src="index_files/md-default0.js" type="text/javascript"></script><script src="index_files/md-default1.js" type="text/javascript"></script>
+
+```{=html}
+<table><tr><td>This is part of the Scicloj <a href="https://scicloj.github.io/clojure-data-tutorials/">Clojure Data Tutorials</a>.</td><a href="https://scicloj.github.io/clojure-data-tutorials/"><img align="left" alt="SciCloj logo" src="https://scicloj.github.io/sci-cloj-logo-transparent.png" width="40" /></a></tr></table>
+```
+
+
+
+# Preface
+
+These tutorials demonstrate using
+the probabilistic programming library [PyMC](https://www.pymc.io/)
+from Clojure.
+
+* [Intro](./intro.html)
+
+
+```{=html}
+<div style="background-color:grey;height:2px;width:100%;"></div>
+```
+
+
+
+```{=html}
+<div><pre><small><small>source: <a href="https://github.com/scicloj/clojure-data-scrapbook/blob/main/projects/stats/pymc/notebooks/index.clj">projects/stats/pymc/notebooks/index.clj</a></small></small></pre></div>
+```
